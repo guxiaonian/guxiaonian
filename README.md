@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guxiaonian&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=guxiaonian&repo=github-readme-stats&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
